@@ -1,0 +1,12 @@
+Creating an "Immortal Snake" game using OpenCV involves combining computer vision, image processing, and game development techniques.
+The goal is to create a classic Snake game where the snake moves and grows as it eats food,
+but with a twist: the snake cannot die, and the game goes on indefinitely. Below is an overview of the process to create the game:
+
+
+Keep in mind that the "immortal" aspect of the game means the snake will never die, and the main objective is to maintain the highest score possible by eating food and growing longer.
+
+
+Note that creating a complete and polished game requires more details and fine-tuning, such as optimizing the snake movement, adding sound effects, improving visuals,
+and handling additional game mechanics. However, the steps outlined above should give you a basic understanding of the process involved in creating an "Immortal Snake" game using OpenCV.
+This code has been specified to detect only green object as specified in the threshold value of masking the image.
+
